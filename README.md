@@ -122,9 +122,9 @@ I love building things that:
 
 ## 🤝 Let’s Connect
 
-📧 Email: your.email@example.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
-🌐 Portfolio: https://yourportfolio.com  
+📧 Email: ntpjc2vinayak@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/vinayak-bhatia-836556230/ 
+🌐 Portfolio: https://vinayak-bhatia.vercel.app/
 
 ---
 
